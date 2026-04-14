@@ -1,11 +1,11 @@
-# Merhaba, Ben Hüseyin Sönmez 👋
+# Merhaba, Ben Hüseyin Sönmez 
 
 Hatay Mustafa Kemal Üniversitesi Yönetim Bilişim Sistemleri (YBS) öğrencisiyim. Modern web teknolojileriyle işletme süreçlerini dijitalleştiren uygulamalar ile ilgileniyor, aynı zamanda siber güvenlik (Red Teaming & OSINT) ve IoT alanlarında projeler üretiyorum.
 
 ### 👨‍💻 Hakkımda
 - 🎓 **Hatay Mustafa Kemal Üniversitesi'nde** Yönetim Bilişim Sistemleri okuyorum.
 - 🛡️ **Siber Güvenlik**, **Sızma Testleri** ve **OSINT** araştırmalarına yoğun ilgi duyuyorum.
-- 🤖 **Teknofest** için donanım ve yazılım entegreli **IoT tabanlı Akıllı İlaç Kutusu** ile **Yerel Altyapı İzolasyonu ve Tuzağı** geliştiriyorum.
+- 🤖 **Teknofest** için donanım ve yazılım entegreli **IoT tabanlı Akıllı İlaç Kutusu** ile **Yerel Altyapı İzolasyonu ve Tuzağı** isimli projeler geliştiriyorum.
 - 🚀 **Netlify** üzerinden web projeleri yayınlıyorum.
 
 ### 🛠️ Teknolojiler & Araçlar
